@@ -12,7 +12,7 @@ function App() {
     <>
       <Layout>
         <Sider
-          style={{ paddingTop: 50 }}
+          style={{ paddingTop: 150 }}
           breakpoint="lg"
           collapsedWidth="0"
           onBreakpoint={(broken) => {
